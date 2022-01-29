@@ -1,0 +1,49 @@
+{
+  "ROOT": {
+    "type": {
+      "resolvedName": "ContainerComponent"
+    },
+    "isCanvas": false,
+    "props": {
+      "padding": 10,
+      "backgroundColor": "yellow"
+    },
+    "displayName": "Root",
+    "custom": {},
+    "hidden": false,
+    "nodes": ["RN8nLEgMgm", "RN8nLEgMgq"],
+    "linkedNodes": {},
+    "parent": ""
+  },
+  "RN8nLEgMgm": {
+    "type": {
+      "resolvedName": "TextComponent"
+    },
+    "props": {
+      "backgroundColor": "red",
+      "text": "zxc"
+    },
+    "isCanvas": false,
+    "displayName": "Root",
+    "custom": {},
+    "hidden": false,
+    "linkedNodes": {},
+    "nodes": [],
+    "parent": "ROOT"
+  },
+  "RN8nLEgMgq": {
+    "type": {
+      "resolvedName": "ContainerComponent"
+    },
+    "props": {
+      "backgroundColor": "blue"
+    },
+    "isCanvas": false,
+    "displayName": "Root",
+    "custom": {},
+    "hidden": false,
+    "linkedNodes": {},
+    "nodes": [],
+    "parent": "ROOT"
+  }
+}
